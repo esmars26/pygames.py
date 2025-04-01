@@ -140,9 +140,6 @@ def outside():
         outside()
 
 
-# ALERT
-input('Part of this software is missing. Please alert Elijah if there are any issues.')
-
 # GAME
 p('Hello!')
 WEATHER = 'clear'  # Initialize WEATHER
