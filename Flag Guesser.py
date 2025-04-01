@@ -37,7 +37,7 @@ points = 0
 
 
 
-#-----------------------------------DO-NOT-LOOK------------------------------------#
+
 United_States = '50 stars.'
 Trinidad_Tobago = 'Red, with a white and black diagonal.'
 Seychelles = 'Five diagonal bands of blue, yellow, red, white, and green.'
@@ -48,7 +48,7 @@ United_Arab_Emirates = 'Green, white, black one way, red the other.'
 Mozambique = 'Rifle, hoe, book.'
 Belgium = 'Black, yellow, red.'
 Brunei = 'Royal umbrella, wings of four feathers, upraised hands, crescent moon.'
-#----------------------------------------------------------------------------------#
+
 
 
 Countries = [United_States, Trinidad_Tobago, Seychelles, Holy_See, Romania, South_Sudan, United_Arab_Emirates, Mozambique, Belgium, Brunei]
