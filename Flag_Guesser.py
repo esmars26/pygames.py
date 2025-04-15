@@ -48,23 +48,23 @@ def game():
 
         elif country == Trinidad_Tobago:
             guess = input()
-            if guess == 'Trinidad & Tobago':
+            if guess == 'Trinidad and Tobago':
                 print('Nice!')
                 points = points+3
-            elif guess != 'Trinidad & Tobago':
+            elif guess != 'Trinidad and Tobago':
                 print('Try again.')
                 guess = input()
-                if guess == 'Trinidad & Tobago':
+                if guess == 'Trinidad and Tobago':
                     print('Good.')
                     points = points+2
-                elif guess != 'Trinidad & Tobago':
+                elif guess != 'Trinidad and Tobago':
                     print('Try again.')
                     guess = input()
-                    if guess == 'Trinidad & Tobago':
+                    if guess == 'Trinidad and Tobago':
                         print('Phew.')
-                    elif guess != 'Trinidad & Tobago':
+                    elif guess != 'Trinidad and Tobago':
                         print('Oops!')
-                        print('The correct answer was Trinidad & Tobago')
+                        print('The correct answer was Trinidad and Tobago')
 
 
         elif country == Seychelles:
