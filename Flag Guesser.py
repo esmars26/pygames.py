@@ -2,41 +2,7 @@ import random
 global points
 points = 0
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#Removed excessive whitespace from transfer
 
 United_States = '50 stars.'
 Trinidad_Tobago = 'Red, with a white and black diagonal.'
