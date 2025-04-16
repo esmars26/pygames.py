@@ -1,3 +1,2 @@
 # pygames.py
-Some games in python.
-Number of games: 3.
+3 games for IDLE Python or an online compiler.
